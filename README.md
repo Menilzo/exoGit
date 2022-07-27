@@ -1,0 +1,2 @@
+# exoGit
+Depôt distant exo
